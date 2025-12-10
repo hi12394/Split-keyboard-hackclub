@@ -29,3 +29,25 @@ Hotswappable Keycaps & Switches: Allows for easy customization and maintenance w
 
 <img width="728" height="700" alt="pcb 4" src="https://github.com/user-attachments/assets/d2eab11f-f1e8-4b96-9437-fa63995a5877" />
 
+Bill of Materials (BOM)
+This is the complete list of components required to build one unit of the Minimalistic Board (TMB). The quantities listed are for the complete split keyboard (two halves).
+
+Microcontroller: 2 pcs, Nice!Nano v2 (or similar BLE controller).
+
+Displays (Optional): 2 pcs, Nice!View + Mounts.
+
+Battery: 2 pcs, LiPo battery (301230).
+
+Inter-Board Connectors: 4 pcs, 12 pin headers and sockets (2 pairs per half).
+
+Keycaps: 54 pcs, Your chosen keycaps.
+
+Hotswap Sockets: 54 pcs, Your chosen hotswap sockets (e.g., Kailh).
+
+Diodes: 56 pcs, Diodes 1N4148W (SMD recommended for low profile).
+
+Buttons (Reset): 2 pcs, Tactile push buttons.
+
+Switches (Power): 2 pcs, Slider switches (SPDT recommended).
+
+Cable: 1 pc, USB-C cable (for charging and flashing).
